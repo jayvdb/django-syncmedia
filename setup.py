@@ -8,6 +8,7 @@ setup(
     long_description="Syncmedia is a django application that let you syncronize data files between multiple machines running the same django site.",
     author='SimplyOpen',
     author_email='info@simplyopen.org',
+    url='https://github.com/simplyopen-it/django-syncmedia',
     classifiers=[
         "Development Status :: 5 - Production/Stable",
         "Framework :: Django",
